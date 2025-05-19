@@ -4,6 +4,7 @@ Welcome to the Microservices repository! This project demonstrates the implement
 - [**CQRS**](CQRS.md)
 - [**Event Sourcing**](EventSourcing.md)
 - [**Blueprint for an Enterprise App**](Blueprint.md)
+- [**Understanding JWT**](JWT.md)
 
 
 
